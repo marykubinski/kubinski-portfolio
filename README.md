@@ -4,7 +4,7 @@ This is my public portfolio for Telling Stories with Data (course 94-870 at CMU)
 # About me
 Hi all! I'm Mary Kubinski! (she/her/hers)
 
-I am a second year Masters Candidate at the Heinz College of Information Systems and Public Policy at Carnegie Mellon University. I am pursuing an MS in Public Policy and Management. My coursework has covered policy analysis tools and methods (like Statistics with R, Programming R for Analytics, GIS, and Policy Analysis in Practice) and management (like Management Science I & II, and Project Management). 
+I am a second year MS Candidate at the Heinz College of Information Systems and Public Policy at Carnegie Mellon University, studying Public Policy and Management. My coursework has covered policy analysis tools and methods (like Statistics with R, Programming R for Analytics, GIS, and Policy Analysis in Practice) and management (like Management Science I & II, Negotiation, and Project Management). 
 
 Some projects I have worked on at Heinz that included collecting and displaying data include: 
 * CMS Hospital Price Transparency Rule Implementation Analysis

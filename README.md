@@ -10,6 +10,7 @@ Some projects I have worked on at Heinz that included collecting and displaying 
 * CMS Hospital Price Transparency Rule Implementation Analysis
 * Policy Innovation Lab: Police Data Initiative
 * Growth & Intelligent Transportation Systems: Transit Signal Priorities
+
 Outside of Heinz, I have supported research and projects in international trade, regional industrial economic development, and smart cities technology. Data visualizations have also been a small part of all this work! 
 
 Before graduate school, I was an education sector Peace Corps Volunteer in Thailand. I completed a BA in Political Science and Public Policy studies at HWS Colleges in the Finger Lakes region of New York State. In the Finger Lakes, I also learned about community organizing, people-centered policy, and wine! 

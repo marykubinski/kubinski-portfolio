@@ -6,7 +6,7 @@ Hi all! I'm Mary Kubinski! (she/her/hers)
 
 I am a second year Masters Candidate at the Heinz College of Information Systems and Public Policy at Carnegie Mellon University. I am pursuing an MS in Public Policy and Management. My coursework has included policy analysis and methods, like Statistics with R, Programming R for Analytics, GIS, and Policy Analysis in Practice, and management, like, Management Science I & II, and Project Management. 
 
-Some projects I have worked on at Heinz include: CMS Hospital Price Transparency Rule Implementation Analysis, Policy Innovation Lab: Police Data Initiative, and Growth & Intelligent Transportation Systems:Transit Signal Priorities. Outside of Heinz, I have supported research and projects in international trade, regional industrial economic development, and smart cities technology. 
+Some projects I have worked on at Heinz include: CMS Hospital Price Transparency Rule Implementation Analysis, Policy Innovation Lab: Police Data Initiative, and Growth & Intelligent Transportation Systems:Transit Signal Priorities. Outside of Heinz, I have supported research and projects in international trade, regional industrial economic development, and smart cities technology. Data visualizations have been a part of all this work! 
 
 Before graduate school, I was an education sector Peace Corps Volunteer in Thailand. I completed a BA in Political Science and Public Policy studies at HWS Colleges in the Finger Lakes region of New York State. In the Finger Lakes, I also learned a lot about community organizing, people-centered policy, and wine! 
 

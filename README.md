@@ -17,9 +17,10 @@ I also hope to deeply engage and conduct user research, to collect new insights 
 
 
 # Portfolio
-1. Data Visualization 1
-2. Assignment 3: Critique by Design
-3. Assignment 4: Critique by Design
-4. Final Project: Part One
-5. Final Project: Part Two
-6. Final Project: Part Three
+1. Class Examples [Class Examples](class-examples.md)
+2. Data Visualization 1
+3. Assignment 3: Critique by Design
+4. Assignment 4: Critique by Design
+5. Final Project: Part One
+6. Final Project: Part Two
+7. Final Project: Part Three

@@ -23,7 +23,7 @@ I also hope to deeply engage with the user research process. I hope for this opp
 
 # Portfolio
 1. Class Examples: [Class Examples](class-examples.md)
-2. Assignment 2: Visualizing Government Debt
+2. Assignment 2: [Visualizing Government Debt](Visualizing-Government-Debt.md)
 3. Assignment 3: Critique by Design
 4. Assignment 4: Critique by Design
 5. Final Project: Part One

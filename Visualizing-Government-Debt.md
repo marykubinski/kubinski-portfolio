@@ -12,8 +12,20 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7683089"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Interactive County Visualiztion 
+# Interactive County Line Chart 
 
 Description Here
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7691613"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Interactive County Heat Grid
+
+Description Here 
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/7691692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# All Countries Heatmap 
+
+Description Here
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/7691720"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

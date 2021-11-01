@@ -2,7 +2,9 @@
 
 ## Comparing General Government Debt as % of GDP
 
-# Highlighting trade partners in the USMCA
+# Government Debt as % of GDP- Highlighting the USMCA
+
+This bar chart, created with a web-based tool on the OECD website, displays the level of general government debt as a total percentage of GDP for OECD member countries in 2017. To demonstrate the selection feature, members of the USMCA- Mexico, Canada, and the United States- are highlighted. 
 
 <iframe src="https://data.oecd.org/chart/6vpj" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vpj" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
@@ -12,20 +14,15 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7683089"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Interactive County Line Chart 
+# Interactive Line Chart of General Government Debt as % of GDP Over Time
 
-Description Here
+Use the drop-down menu to take a closer look at the change in government debt over time, for a particular county. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7691613"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Interactive County Heat Grid
 
-Description Here 
+# General Government Debt Heatmap 
 
-<div class="flourish-embed flourish-heatmap" data-src="visualisation/7691692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-# All Countries Heatmap 
-
-Description Here
+This Heatmap demonstrates the government debt below 100 and above 100. 
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/7691720"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

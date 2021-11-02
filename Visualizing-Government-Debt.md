@@ -14,15 +14,15 @@ This bar chart, created with a web-based tool on the OECD website, displays the 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7683089"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Interactive Line Chart of General Government Debt-to-GDP Ratio
+# Interactive Line Chart of Government Debt-to-GDP Ratio
 
-Use the drop-down menu to take a closer look at the change in government debt over time, for a particular county. 
+Use the drop-down menu to take a closer look at the change in general government debt as a % of GDP over time, for a particular county. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7691613"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Interactive Heat Bar of General Government Debt-to-GDP Ratio 
+# Interactive Heat Chart of Government Debt-to-GDP Ratio 
 
-Use the drop-down menu to visualize the change in government debt over time using a color scale, for a particular country. 
+Use the drop-down menu to visualize the change in general government debt as a % of GDP over time, using a color scale, for a particular country. 
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/7691692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

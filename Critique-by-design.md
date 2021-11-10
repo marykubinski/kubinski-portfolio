@@ -6,7 +6,7 @@ This assignment will cover six steps for selecting, critiquing, and redesigning 
 
 For this exercise, I wanted to work with a visualization that considered student loan debt and repayment options, which is a policy research topic I recently engaged with in another Heinz course.  While researching student loans, I learned about income-driven repayment (IDR) plans. An income-driven repayment plan sets a borrower's monthly student loan payment at an amount that is intended to be affordable based on your income and family size. There are multiple IDR options available to borrowers, which offer set timelines for repayment using fixed amounts— most often 10% income. Borrowers pay that percentage of earnings monthly until the timeline is up, when the remining balance is forgiven. 
 
-I selected this visual from "Trends in College Pricing and Student Aid 2020" authored by research scientists at College Board. As a reader, I found the visual was difficult to read and had the potential to make a stronger point about IDR, which was highlighted in the subtitle but not the data visualization. This visualization shows how outstanding student loan debt has been shared across repayment plan selection at three points in recent history- 2017, 2017, and 2020.  
+I selected this visual from "Trends in College Pricing and Student Aid 2020" authored by research scientists at College Board. As a reader, I found the visual was difficult to read and had the potential to make a stronger point about IDR, which was highlighted in the subtitle but not the data visualization. This visualization shows how outstanding student loan debt has been shared across repayment plan selection at three points in recent history- 2017, 2017, and 2020. The distribution is quantified in the percentage of total dollars as well as the percentage of total borrowers. For each year of interest, both of these measures should total 100%. 
 
 ![image of origional visual](Critique.FedStudentLoans.png) 
 
@@ -35,7 +35,7 @@ The main goal of my wireframes was to separate the distribution by the percentag
 
 To test the solution I conducted interviews with three friends who are also students at Heinz. To respect their identities, I have called my friends A, B, and C. With each friend, I shared the wireframes and explained that the bar and line chart included the same data and each had a mock-drop down menu. I did not offer any explanation of the charts. I gave them each a few minutes to read. 
 
-### Questions and Answers 
+### Questions and Answers:  
 
 *Can you tell me what you think this is?*
 
@@ -77,7 +77,7 @@ B: I don’t think so. I feel like especially with the bar chart, it just does a
 
 C: “IDR Repayment” in the title is redundant. As someone who doesn’t know and had to ask what IDR means and doesn’t have a lot of loan knowledge, I would appreciate an accompanying few sentences blurb on the side or bottom explaining what the 4 options are. This doesn’t mean anything to me if I don’t know. But this is about who your intended audience is- whether or not it would be superfluous or not.
 
-### How to Implement 
+### Patterns and Implementing: 
 
 Patterns that emerged in the feedback were: 
 1. For the visualization to have value, the intended audience would need pre-existing knowedge on federal student debt replayment plans or more explanation 

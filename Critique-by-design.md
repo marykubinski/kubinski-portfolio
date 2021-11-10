@@ -11,7 +11,7 @@ I selected this visual from "Trends in College Pricing and Student Aid 2020" aut
 ![image of origional visual](Critique.FedStudentLoans.png) 
 
 
-The visualization can be found on page 40 of the report, linked here: https://research.collegeboard.org/pdf/trends-college-pricing-student-aid-2020.pdf
+The visualization can be found on page 40 of the report, [trends in college pricing link](https://research.collegeboard.org/pdf/trends-college-pricing-student-aid-2020.pdf)
 
 ## Step two: Critique the visualization
 

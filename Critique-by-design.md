@@ -8,12 +8,68 @@ I selected this visual from "Trends in College Pricing and Student Aid 2020" aut
 
 ![image of origional visual](Critique.FedStudentLoans.png) 
 
-This visualization shows how outstanding student loan debt has been shared across repayment plan selection at three points in recent history- 2017, 2017, and 2020.  Overall, this data visualization has included two different, but complimentary, sets of information by representing the repayment plan variable using percent of dollars and percent of borrowers. While these can use the same scale, it does not help with perceptibility to have the different data alternating on the x-axis. At that, it is not clear that the visualization is supporting the educational goal of this section of the report, which is subtitled, “more than half of the debt owed by student loan borrowers in repayment is now in Income-Driven Repayment (IDR) plans that limit monthly payments to a share of income.”
+This visualization shows how outstanding student loan debt has been shared across repayment plan selection at three points in recent history- 2017, 2017, and 2020.  
+
+The visualization can be found on page 40 of the report, linked here: https://research.collegeboard.org/pdf/trends-college-pricing-student-aid-2020.pdf
 
 ## Step two: Critique the visualization
 
+Overall, this data visualization has included two different, but complimentary, sets of information by representing the repayment plan variable using percent of dollars and percent of borrowers. While these can use the same scale, it does not help with perceptibility to have the different data alternating on the x-axis. At that, it is not clear that the visualization is supporting the educational goal of this section of the report, which is subtitled, “more than half of the debt owed by student loan borrowers in repayment is now in Income-Driven Repayment (IDR) plans that limit monthly payments to a share of income.”
+
+I am interested in larger reformatting that splits the dollars and percentages into two different graphs. These graphs could be stacked or parallel in another way, that does not require the reader to flip back and forth in one visual. At that, I would be interested in seeing groupings by year, with the loan repayment as the colored variable and year on the axis. In wireframing, I may try a few different assignments of variables to parts of the chart. I also would like to work on alignment, text, and using color to highlight IDR plans as indicated in the subtitle.
+
 ## Step three: Wireframe a solution
 
+The main goal of my wireframes was to separate 
+
+### Wireframe 1: Bars
+
+![image of bars wireframe](loans.bar.jpeg)
+
+### Wireframe 2: Lines 
+
+![image of lines wireframe](loans.line.jpeg)
+
 ## Step four: Test the solution
+
+To test the solution I conducted interviews with 3 friends, called A, B, and C. 
+
+### Questions and Answers 
+
+*Can you tell me what you think this is?*
+A: Thinks that these are the 4 main options for repaying loans. Wanted to confirm what each of the payment options included (“what is a level payment?”). I think it is two graphs- one showing the % of dollars for a payment type out of the total federal direct loan payments (in the US). The total percentage for each payment type in dollars. It shows that IDR grew from 27% to 53% in the six years included. I like the orange- easy to see what you’re highlighting here. It seems to have mostly grown while the level of payments has decreased and the other two are decreasing. It seems to track with the borrowers. This seems clear. 
+B: “What does IDR stand for?” I am looking at the percent of dollars- I am looking at the percent of total dollars attributed to each form of repayment in a given year. The second is the percent distribution of the types of borrowers for each kind of repayment. 
+C: Are you comparing IDR to the others? Then it’s working. If it’s not the goal then you need to change the colors. I think this is comparing the effects of different loan repayments over time- looking at the borrowers and department of education revenue stuff. 
+
+*Which of the charts do you prefer? Why? Is one of them easier to read?*
+A: I like the line chart more than the bar chart. The bar chart communicates the same information, but the line chart shows more clearly how things change over time. A linear representation is easier and doesn’t feel like it needs to be broken down any further. 
+B: I think the bar chart is easier to read. Visually, you can see the differences easier in types of repayment plans across years. Within and across is easier to see for me. Obviously, you can see in the line also. But the scale is easier with the bar. You can see more easily with the bar how IDR compares across the year. This works better for my brain. 
+C: I think if you’re spending a short amount of time, initially the bar chart is easier to read. But I think this is  a bias because you see more bar charts. But I think the line chart has a value of being a better representation of data. If you have more time, I like the line chart better. 
+
+*Is there anything you find surprising or confusing (about the layout)?*
+A: No. 
+B: Not really. The only thing I would say is when I see lines vs bars, I see continuous. Since we are looking at 3 distinct moments in time, I like the bar chart more. The slope is useful, but then I don’t see it as a distinct point. Does this change the meaning of the data? Is it a fair representation? 
+C: No. 
+
+*Who do you think is the intended audience for this?*
+A: I’m not sure how useful it would be to a loan borrower. I think it would be more useful in conjunction with some more information on how effective these options are for people. In that regard, I think some of the audience would probably be policymakers who would see these increases/decreases and then be moved to consider why. It could push a policymaker to think, "are these options working for people?" What would a policy maker need to change so that the better options are reaching more people? 
+B: Maybe policymakers that are looking to try and get a handle on student loan repayment and looking at what to attack first. 
+C: I would guess it is a government decision maker. 
+
+*Is there anything you would change or do differently?*
+A: It’s pretty clear. What does IDR stand for? What is a level payment? Granted, if you are a policymaker, you would probably know what these things are. As someone with loans, a refresher would be nice. 
+B: I don’t think so. I feel like especially with the bar chart, it just does a good job of what it is trying to do. If I interpreted correctly what I think it’s trying to do. I’m also assuming that whoever is looking at this has additional context or already knows what each type of repayment plan means. I’m not sure how much that specifically matters, but knowing what IDR vs. graduated vs. level might make the information more meaningful. Is IDR growing good or bad? 
+C: “IDR Repayment” in the title is redundant. As someone who doesn’t know and had to ask what IDR means and doesn’t have a lot of loan knowledge, I would appreciate an accompanying few sentences blurb on the side or bottom explaining what the 4 options are. This doesn’t mean anything to me if I don’t know. But this is about who your intended audience is- whether or not it would be superfluous or not.
+
+### How to Implement 
+
+Patterns that emerged in the feedback were: 
+1. For the visualization to have value, the intended audience would need pre-existing knowedge on federal student debt replayment plans or more explanation 
+2. Using familiar chart layouts has removed surprise or confusion. 
+3. The line chart may be misleading because contunous data is not being used 
+
+Based on this feedback, as I build new visualizaitons, I will not use the line chart. The observation that a line chart is better for a continuous variable was shocking because I had not considered this potential visualization weakness that the line could be misleading and might even impact the "truthfulness" score Data Visualization Effectiveness Profile. I will continue with bar charts in the next phase and will refine my titles.  
+
+I was not shocked to hear that my friends expected the audience to be policymakers because I had made the decision to not include additional educational information or context to the visual, which is consistent with the design by the research scientists at College Board. I think that the intended audience of this visual is policy writers, journalists, or other researchers interested in the question of college loan debt and repayment plans. It was valuable to know, however, what changes could be made to suit a general audience. 
 
 ## Step five: Build your solution

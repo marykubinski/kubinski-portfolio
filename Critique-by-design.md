@@ -88,3 +88,7 @@ Based on this feedback, as I build new visualizaitons, I will not use the line c
 I was not shocked to hear that my friends expected the audience to be policymakers because I had made the decision to not include additional educational information or context to the visual, which is consistent with the design by the research scientists at College Board. I think that the intended audience of this visual is policy writers, journalists, or other researchers interested in the question of college loan debt and repayment plans. It was valuable to know, however, what changes could be made to suit a general audience. 
 
 ## Step five: Build your solution
+
+## Step six: Classroom feedback and iterate 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7781717"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

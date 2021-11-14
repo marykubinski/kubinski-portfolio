@@ -1,1 +1,9 @@
-#Final Project Part One
+# Final Project Part One
+
+## Outline
+
+## Sketches
+
+## Data
+
+## Method and Medium 

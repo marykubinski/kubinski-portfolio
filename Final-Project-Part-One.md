@@ -50,3 +50,8 @@ The following data sources have been collected and aggregated by the The Washing
 
 ## Method and Medium 
 
+I plan to complete the final deliverable for my project using Shorthand. Some of the essential visuals will be charts showing... 
+
+My first step will be to review, clean, and aggregate data. The fatal police shooting and police scorecard are disaggregated to the individual incidence level. 
+
+At this time, I plan to  build some charts using Tableau, Flourish, and possible ggplot in R. I intend to build as many as I can with Tableau, since one of my goals in this course is to become more familiar with Tableau. I plan to make one or two maps for the project and feel confident this can be done in Tableau, following the class tutorial. I have found Flourish to be more intuitive, especially for interactive charts and graphs. I may decide to switch to R/ggplot if I encounter challenges working with large datasets. 

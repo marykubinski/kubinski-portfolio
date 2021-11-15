@@ -6,14 +6,14 @@
 Traffic stops are the most common way that police interact with the public in the United States. Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do. Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While not statistically supported, the belief has an impact on police department and courtroom culture and standards, which not only creates a risk to the public but continues a standard allowing impunity for the majority of police officers who use lethal force at vehicle stops.
 
 ### Part 1 : Setup 
-- Introduce traffic stops 
--- What is the goal of traffic stops?
--- What is funded by traffic stops? 
-- Introduce police-public Interactions
--- Unequal Demographics by race/gender
-- High- level Problem with police violence 
--- Show map 
--- Proportion of police violence that is related to traffic stops 
+* Introduce traffic stops 
+- What is the goal of traffic stops?
+- What is funded by traffic stops? 
+* Introduce police-public Interactions
+- Unequal Demographics by race/gender
+* High- level Problem with police violence 
+- Show map 
+- Proportion of police violence that is related to traffic stops 
 
 ### Part 2: Conflict 
 - How often is deadly force at a traffic stop because of danger to the police?
@@ -43,8 +43,8 @@ The following data sources have been collected and aggregated by the The Washing
 
 1. [Police Scorecard](scorecard.csv) by the Police Scorecard Project 
 2. [Fatal Police Shootings](fatal-police-shootings-data.csv) by the Washington Post 
-3. Contacts Between Police and the Public by the DOJ Bureau of Justice Statistics
-4. Police Perceptions Survey by Police1 
+3. [Contacts Between Police and the Public](DOJ_police_contacts.pdf) by the DOJ Bureau of Justice Statistics
+4. [Police Perceptions Survey](Police1_Survey.pdf) by Police1 
  
 "The Police Scorecard is the first nationwide public evaluation of policing in the United States. The Scorecard calculates levels of police violence, accountability, racial bias and other policing outcomes for over 16,000 municipal and county law enforcement agencies, covering nearly 100% of the US population."
 

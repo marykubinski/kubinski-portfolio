@@ -3,7 +3,7 @@
 
 ## Outline
 
-Traffic stops are the most common way that police interact with the public in the United States. Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do. Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While not statistically supported, the belief has an impact on police department and courtroom culture and standards, which not only creates a risk to the public but continues a standard allowing impunity for the majority of police officers who use lethal force at vehicle stops.
+Traffic stops are the most common way that police interact with the public in the United States. Police pull over more than 50,000 drivers on a typical day, more than 20 million motorists every year (The Stanford Open Policing Project). Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do. Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While not statistically supported, the belief has an impact on police department and courtroom culture and standards, which not only creates a risk to the public but continues a standard allowing impunity for the majority of police officers who use lethal force at vehicle stops.
 
 ### Part 1 : Setup 
 - Introduce traffic stops 
@@ -17,7 +17,7 @@ Traffic stops are the most common way that police interact with the public in th
 
 ### Part 2: Conflict 
 - How often is deadly force at a traffic stop because of danger to the police?
-   - Statistics show police are often not in danger
+   - Statistics show police are in danger very infrequently during traffic stops 
    - Statistics show police create a more dangerous situation by not following procedures 
    - Statistics show impact on communities are unequal 
 - Where is this happening and how are police trained? 
@@ -46,7 +46,7 @@ The following data sources have been collected and aggregated by the The Washing
 3. [Contacts Between Police and the Public](DOJ_police_contacts.pdf) by the DOJ Bureau of Justice Statistics
 4. [Police Perceptions Survey](Police1_Survey.pdf) by Police1 
  
-"The Police Scorecard is the first nationwide public evaluation of policing in the United States. The Scorecard calculates levels of police violence, accountability, racial bias and other policing outcomes for over 16,000 municipal and county law enforcement agencies, covering nearly 100% of the US population."
+The Police Scorecard is a public evaluation of policing, tracking levels of police violence, accountability, racial bias and other policing outcomes for over 16,000 municipal and county law enforcement agencies. I plan to use this dataset to evaluate trends in how...  The Fatal Police Shootings dataset contains individual datapoints for every fatal shooting  by a police officer in the line of duty since Jan. 1, 2015. I plan to use this disaggregated data to create a map. After aggregating the Fatal Police Shootings, I plan to show... The DOJ record of Contacts Between Police and the Public was most recently updated in 2018 and it can be used in the introduction of police-public interactions. The Police Perceptions Survey was a 29-question survey, completed by 1,036 police officers in Spring 2021. Survey content includes the responses on common non-compliance behaviors, traffic stop training frequency and methods, and departmental policies. I plan to use these data in the resolution section to demonstrate the gaps and opportunities for improvement that police officers have identified and reported.  
 
 ## Method and Medium 
 

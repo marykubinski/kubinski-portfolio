@@ -17,24 +17,24 @@ Traffic stops are the most common way that police interact with the public in th
 
 ### Part 2: Conflict 
 - How often is deadly force at a traffic stop because of danger to the police?
--- Statistics show police are often not in danger
--- Statistics show police create a more dangerous situation by not following procedures 
--- Statistics show impact on communities are unequal 
+   - Statistics show police are often not in danger
+   - Statistics show police create a more dangerous situation by not following procedures 
+   - Statistics show impact on communities are unequal 
 - Where is this happening and how are police trained? 
--- Statistics from the police scorecard dataset 
+   - Statistics from the police scorecard dataset 
 - Who is accountable when police take lives? 
--- Frequency of convictions vs. settlement payouts 
+   - Frequency of convictions vs. settlement payouts 
 
 ### Part 3: Resolution 
 - What do police say? 
--- Police survey data 
+   - Police survey data 
 - What do experts recommend? 
--- Message: Civilian deaths and costs to community could be avoided if police officers do not put themselves in danger/have better training. 
+   - Message: Civilian deaths and costs to community could be avoided if police officers do not put themselves in danger/have better training. 
 
 ### Part 4: Call to Action 
 - Ongoing efforts to use open data/political participation to call for change at local/state/federal level
--- Link to an low-level petition for officer training 
--- Provide higher-level action about separating traffic stops from municipal funding 
+   - Link to an low-level petition for officer training 
+   - Provide higher-level action about separating traffic stops from municipal funding 
 
 ## Sketches
 

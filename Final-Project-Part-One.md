@@ -11,7 +11,6 @@ Traffic stops are the most common way that police interact with the public in th
    - Show traffic stops are most common police-initiated interaction with DOJ data
 - Expand on traffic stops 
    - What is the goal of traffic stops?
-   - What is funded by traffic stops?
 - High- level problem statement around police violence and over-policing 
    - Show map of low scoring police departments using Police Scorecard data 
    - Overpolicing of which communities? Demonstrate with Police Scorecard data

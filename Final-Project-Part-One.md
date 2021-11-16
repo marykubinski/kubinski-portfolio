@@ -3,7 +3,7 @@
 
 ## Outline
 
-Traffic stops are the most common way that police interact with the public in the United States. Police pull over more than 50,000 drivers on a typical day, more than 20 million motorists every year (The Stanford Open Policing Project). Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do. Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While not statistically supported, the belief has an impact on police department and courtroom culture and standards, which not only creates a risk to the public but continues a standard allowing impunity for the majority of police officers who use lethal force at vehicle stops.
+Traffic stops are the most common way that police interact with the public in the United States. On the average day, police pull over more than 50,000 drivers, which amounts to more than 20 million motorists every year (The Stanford Open Policing Project, 2021). Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do (Levenson, 2021). Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While not statistically supported, the belief has an impact on police department and courtroom culture and standards, which not only creates a risk to the public but continues a standard allowing impunity for the majority of police officers who use lethal force at vehicle stops.
 
 ### Part 1 : Setup 
 - Introduce traffic stops 
@@ -27,9 +27,10 @@ Traffic stops are the most common way that police interact with the public in th
 
 ### Part 3: Resolution 
 - What do police say? 
-   - Police survey data 
+   - Police survey data shows trends in data about procedure, training, and experience with non-complient drivers
 - What do experts recommend? 
    - Message: Civilian deaths and costs to community could be avoided if police officers do not put themselves in danger/have better training. 
+   - The role of ticket revenue and other streams of funding 
 
 ### Part 4: Call to Action 
 - Ongoing efforts to use open data/political participation to call for change at local/state/federal level
@@ -39,7 +40,7 @@ Traffic stops are the most common way that police interact with the public in th
 ## Sketches
 
 ## Data
-The following data sources have been collected and aggregated by the The Washington Post, and the research groups Mapping Police Violence. A blog post from the RAND corporation validated and referenced the Police1 survey. 
+The following data sources have been collected by the The Washington Post, and the research groups Mapping Police Violence, as well as the Department of Justice and the Police1 research team. The RAND corporation blog validated and referenced the Police1 survey. 
 
 1. [Police Scorecard](scorecard.csv) by the Police Scorecard Project 
 2. [Fatal Police Shootings](fatal-police-shootings-data.csv) by the Washington Post 
@@ -50,8 +51,14 @@ The Police Scorecard is a public evaluation of policing, tracking levels of poli
 
 ## Method and Medium 
 
-I plan to complete the final deliverable for my project using Shorthand. Some of the essential visuals will be charts showing... 
+I plan to complete the final deliverable for my project using Shorthand. This will be my first experience using Shorthand, but I believe the in-class demonstration will be a helpful starting point. In addition to the charts mentioned in the above outline and sketches, I plan to incorporate call out statistics and images. Policing and police training, as a sensitive and highly-debated issue in policy and local politics, has powerful images that I hope to find on Unsplash. I plan to hold colors constant throughout the presentation that match the mood of the serious topic, but still allow for key data points to be highlighted.   
 
-My first step will be to review, clean, and aggregate data. The fatal police shooting and police scorecard are disaggregated to the individual incidence level. 
+My first step will be to review, clean, and aggregate data. The fatal police shooting and police scorecard are disaggregated to the individual incidence level. This disaggregated data will be applicable to maps with point and gradient features. However, to create summary statistics that are easily interpreted in a chart, I anticipate a need to clean data and create additional categorical variables of interest for grouping. Additionally, the Police1 survey and DOJ report are both available only in PDF format. For the DOJ document, I plan to use Tabula to extract the tables. For the survey, only already visualized data is available, so I will need to create spreadsheets of the results by hand.
 
-At this time, I plan to  build some charts using Tableau, Flourish, and possible ggplot in R. I intend to build as many as I can with Tableau, since one of my goals in this course is to become more familiar with Tableau. I plan to make one or two maps for the project and feel confident this can be done in Tableau, following the class tutorial. I have found Flourish to be more intuitive, especially for interactive charts and graphs. I may decide to switch to R/ggplot if I encounter challenges working with large datasets. 
+At this time, I plan to  build some charts using Tableau, Flourish, and possible ggplot in R. I intend to build as many as I can with Tableau, since one of my goals in this course is to become more familiar with Tableau. I plan to make one or two maps for the project and feel confident this can be done in Tableau, following the class tutorial. I have found Flourish to be more intuitive, especially for interactive charts and graphs. I may also decide to switch to R/ggplot if I encounter challenges working with large datasets. 
+
+## Sources
+
+"Findings." The Stanford Open Policing Project. Accessed November 15, 2021. https://openpolicing.stanford.edu/findings/
+
+Levenson, Michael. “Pulled over: What to Know about Deadly Police Traffic Stops.” The New York Times. The New York Times, October 31, 2021. https://www.nytimes.com/2021/10/31/us/police-killings-traffic-stops-takeaways.html. 

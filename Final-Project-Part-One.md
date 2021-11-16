@@ -3,7 +3,7 @@
 
 ## Outline
 
-Traffic stops are the most common way that police interact with the public in the United States. On the average day, police pull over more than 50,000 drivers, which amounts to more than 20 million motorists every year (The Stanford Open Policing Project, 2021). Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do (Levenson, 2021). Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While the data tells a different story about the risks associated with traffic stops, this popular perception has an impact on police department and courtroom cultures and standards. Beliefs, practices, and lack of consequences surrounding police actions during traffic stops create more dangerous situations for the public.
+Traffic stops are the most common way that police interact with the public in the United States. On the average day, police pull over more than 50,000 drivers, which amounts to more than 20 million motorists every year (The Stanford Open Policing Project, 2021). Recent reporting by the New York Times found that throughout the United States, police consider traffic stops to be among the most dangerous things they do (Levenson, 2021). Yet, an investigation of traffic stop data reveals that this perception of risk is significantly overstated. While the data tells a different story about the risks associated with traffic stops, this popular perception has an impact on police department practice and standards. Common beliefs, practices, and trainings surrounding traffic stops create more dangerous situations for the public.
 
 ### Part 1 : Setup  
 - Introduce police-public Interactions

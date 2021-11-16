@@ -23,8 +23,6 @@ Traffic stops are the most common way that police interact with the public in th
    - Statistics show impact on communities are unequal 
 - Where is this happening and how are police trained? 
    - Statistics from the police scorecard dataset and/or Police1 survey
-- Who is accountable when police take lives? 
-   - Frequency of convictions vs. settlement payouts 
 
 ### Part 3: Resolution 
 - What do police say? 

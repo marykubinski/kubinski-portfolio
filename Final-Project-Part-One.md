@@ -39,6 +39,14 @@ Traffic stops are the most common way that police interact with the public in th
 
 ## Sketches
 
+![Intro police public interactions](final_sketches1.jpeg)
+
+![Intro police violence & disparities](final_sketches2.jpeg)
+
+![Traffic stop specifics](final_sketches3.jpeg)
+
+![Survey shows room to change](final_sketches4.jpeg)
+
 ## Data
 The following data sources have been collected by the The Washington Post, and the research groups Mapping Police Violence, as well as the Department of Justice and the Police1 research team. The RAND corporation blog validated and referenced the Police1 survey. 
 

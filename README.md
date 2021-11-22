@@ -26,5 +26,5 @@ I also hope to deeply engage with the user research process. I hope for this opp
 2. Assignment 2: [Visualizing Government Debt](Visualizing-Government-Debt.md)
 3. Assignment 3 & 4: [Critique by Design ](Critique-by-design.md) 
 4. Final Project: [Part One](Final-Project-Part-One.md)
-5. Final Project: Part Two
+5. Final Project: [Part Two](Final-Project-Part-One.md)
 6. Final Project: Part Three

@@ -6,4 +6,4 @@
 ## User Research & Interviews
 
 ## Moodboards
-![MoodBoard](TSWD_moodboard.docx)
+![MoodBoard](TSWD_Moodboard.png)

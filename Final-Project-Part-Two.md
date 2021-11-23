@@ -75,10 +75,35 @@ Findings:
 | *Calls to Action* 2. Do the calls to action flow logically from the story? Are the "active" enough calls to action?   |  I think they flow and that they pull out something that you already talked about. You talked about training and pretextual stops and those experiences- so that is founded in something you talked about. I do see that it's a more call to action for policy makers or police agencies themselves. So, I could see a reader wanting a more direction action/petition/write to your legislature. That may fit the audience better.   |  It looks kinda like further readings. It's useful. But, you could add a more active call by (after doing the readings) to figure out what the next step is. Who are you calling now? This might depend on who the audience is. With the local-level of police, it would be hard for a broad call to action- you would need to insert a zip code.  |If I was interested, I would click the link. It's clear.   |
 | *Overall*  1. What other suggestions or feedback do you have?    | I like this a lot. One thing that I think about a lot when I think about police things is language- so I wondered about "unnecessary violence" I am someone who thinks all violence is unnecessary. I am also hyperaware of language.   | Could you visualize the change in the final section about the Virginia? You could have 10 people and then 6/7 people. These people aren't being stopped by police- but it is a little fluff? But it would be good to call out the line, since the effects of the changes feels worth it. A way to make that stand out a bit more.   | I still don't like the title. How about "Ways to help police at work." What about "Minimizing Violence in US Traffic Stops," this would have helped me know what she is going to talk about better.    | 
 
-### Similarities and Differences in Feedback. 
+### Themes in Feedback 
 
+Common themes in the feedback included questions about the Title and if the title of the project was making unintended implications as well as if the title was the right "fit" for the story. Other themes included the interviewees picking out the line chart that showed Department of Justice information from 2015 and 2018 as a weak graphic. Another critique was that often the title on the visualization or graph was not explicit enough or was not supporting the intended message or highlighted component.  Interviewees also shared positive responses to the photo slides as transitions and the use of color. 
+
+While the story was clear to the students that I interviewed, it was not clear to my older family member. This may reveal that I have not tailored the message to a less-familiar or less-academic audience. It may also reveal the differnce in viewing the Shorthand on a phone, compared to a computer. 
 
 ## Changes Based on Interview 
+
+#### Narrative Flow 
+
+1. Create a more explicit label for the police perceptions of non-compliance barchart 
+2. Add an additional header before the call to action
+3. Add a better transition to the ongoing city efforts- this section may be too broad 
+4. Include a visualization or two in the city efforts section
+
+#### Design and Data Visualization 
+
+1. Change the line chart- either a new title or new layout 
+2. Include a more explicit label for the map about what the scorecard is evaluating (in Shorthand body)
+3. Considering changing colors for clarity 
+
+#### Calls to Action 
+
+1. Build out more "actionable" actions, if possible.  
+
+
+#### Overall 
+
+1. Develop a new title for the presentation
 
 ## Moodboards
 ![MoodBoard](TSWD_Moodboard.png)

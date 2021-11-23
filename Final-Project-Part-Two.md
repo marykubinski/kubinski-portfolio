@@ -57,9 +57,9 @@ Person C: 60 years old / male / "cautious" suburban driver / conservative /engin
 
 Narrative Flow 
 
-| Syntax      | Description |   Description |    Text     |  
+| Question     | Person A |  Person B |    Person C   |  
 | :---        |    :----:   |      :----:   |        ---: |
-| Header      | Title       |  Title        | Here's this   |
+| Does the story progress in a logical way? Would you reorder any of the sections? | Would not re-order anything.   | I think your story progressed pretty well. It felt like you started with a high-level hook and dove into a breakdown of different motorist police interactions. Then the disparity across race and training issues. It made sense to me. The content felt well-flushed out. At the end, to reduce violent and fatal traffic encounters feels different. It feels like a jump for how police are operating and flowing into this. Add a subheading after the survey data.  | It flowed fine. I have a question on what is included in risk to the police- can that be defined more? So what is the basic point? I don't know what the topic is becuase what you are really saying is... you're saying current data support problems with traffic stops- I did not grasp what it was about in the initial paragraph. You talk about traffic stops being dangerous, but the real essence to the website is not well-explained.  |
 | Paragraph   | Text        | And more      | And more      | 
 | Header      | Title       |  Title        | Here's this   |
 
@@ -67,7 +67,7 @@ Narrative Flow
 1. Does the story progress in a logical way? Would you reorder any of the sections? 
 Jen: Would not re-order anything. 
 Lori: I think your story progressed pretty well. It felt like you started with a high-level hook and dove into a breakdown of different motorist police interactions. Then the disparity across race and training issues. It made sense to me. The content felt well-flushed out. At the end, to reduce violent and fatal traffic encounters feels different. It feels like a jump for how police are operating and flowing into this. Add a subheading after the survey data. 
-Kevin: It flowed fine. Has a question on what is included in risk to the police- can that be defined more? So what is the basic point? I don't know what the topic is becuase what you are really saying is... you're saying current data support problems with traffic stops- I did not grasp what it was about in the initial paragraph. You talk about traffic stops being dangerous, but the real essence to the website is not well-explained. 
+Kevin: It flowed fine. I have a question on what is included in risk to the police- can that be defined more? So what is the basic point? I don't know what the topic is becuase what you are really saying is... you're saying current data support problems with traffic stops- I did not grasp what it was about in the initial paragraph. You talk about traffic stops being dangerous, but the real essence to the website is not well-explained. 
 
 2. Are there any questions that you still have at the end or information you feel is missing?
 Jen: I don't think so. But, I'm just back at the beginning becuase looking at the bar graph looking at traffic stops resulting in noncompliance. I didn't get the title. I didn't get what noncompliance meant. If I didn't have you walking me through it, I would still be confunsed. So I had that question earlier.  

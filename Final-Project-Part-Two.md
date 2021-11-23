@@ -16,8 +16,6 @@ Link:
 
 Goals of the  user research protocol should clearly identify the following:
 
-a. the target audience you hope to reach with your story; b. your approach to identifying representative individuals to interview; c. your interview script; d. the findings from your interviews; and e. changes you plan on implementing to your visualizations next week to address the issues identified.
-
 ### Target Audience 
 
 The audience I hope to reach includes any residents of the US who have been drivers or passengers of private vehicle. Traffic stops impact a wide section of people and I will plan to reach individuals of different ages, geographic locations, and political beliefs. The goal of my project is to educate the target audience on the current policing training and practices that surround traffic stops. The call to action is segmented into three levels- each level that has a more dramatic pogram or policy response. If given a longer research timeframe, I would be interested in identifying individuals who live in highly-policed communities as well as individuals who work in law enforcement. 

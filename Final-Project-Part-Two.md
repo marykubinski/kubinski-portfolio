@@ -5,9 +5,11 @@
 
 [wireframe](https://preview.shorthand.com/xfhyxjoPEP5muTNL)
 
-<script 
-        async src="https://preview.shorthand.com/xfhyxjoPEP5muTNL#group-section-Racial-Discrimination-while-Driving-vugajBGgAL">
-</script>
+<iframe
+  src="https://preview.shorthand.com/xfhyxjoPEP5muTNL"
+  style="width:100%; height:300px;"
+></iframe>
+
 
 Link:
 

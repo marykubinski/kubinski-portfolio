@@ -51,11 +51,16 @@ My goal is to collect feedback on my Telling Stories with Data project, which wa
 
 The findings of my interview are summarized in the table below: 
 
-27 year old/ female/ suburban driver/ progressive 
-33 years old / female / urban area driver / progressive 
-60 years old / male / "cautious" suburban driver / conservative 
+Person A: 27 year old/ female/ suburban driver/ progressive / student
+Person B: 33 years old / female / urban area driver / progressive /student 
+Person C: 60 years old / male / "cautious" suburban driver / conservative /engineer 
 
 Narrative Flow 
+
+| Syntax      | Description |   Description |    Text     |  
+| :---        |    :----:   |      :----:   |        ---: |
+| Header      | Title       |  Title        | Here's this   |
+| Paragraph   | Text        | And more      | And more      | 
 
 1. Does the story progress in a logical way? Would you reorder any of the sections? 
 Jen: Would not re-order anything. 

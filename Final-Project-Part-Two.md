@@ -105,5 +105,12 @@ While the story was clear to the students that I interviewed, it was not clear t
 
 1. Develop a new title for the presentation
 
+## Changes Based on In-Class Capture Feedback Exercise 
+
+1. For police survey stacked barcharts, remove the legend and instead include the label in the charts
+2. For the final section with police survey data, consider highlighting the main point of each visual with side-by-side call out statistic 
+3. Ditch the line graph and replace with visualization that does not emphasize time   
+4. Include impact visualization for city policy change section 
+
 ## Moodboards
 ![MoodBoard](TSWD_Moodboard.png)

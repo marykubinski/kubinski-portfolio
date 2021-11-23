@@ -61,6 +61,8 @@ Narrative Flow
 | :---        |    :----:   |      :----:   |        ---: |
 | Header      | Title       |  Title        | Here's this   |
 | Paragraph   | Text        | And more      | And more      | 
+| Header      | Title       |  Title        | Here's this   |
+
 
 1. Does the story progress in a logical way? Would you reorder any of the sections? 
 Jen: Would not re-order anything. 

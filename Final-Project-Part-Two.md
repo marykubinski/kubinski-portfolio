@@ -11,9 +11,7 @@
 ></iframe>
 
 
-Link:
-
-https://preview.shorthand.com/xfhyxjoPEP5muTNL#group-section-Racial-Discrimination-while-Driving-vugajBGgAL
+Link: https://preview.shorthand.com/xfhyxjoPEP5muTNL#group-section-Racial-Discrimination-while-Driving-vugajBGgAL
 
 ## User Research & Interviews
 

@@ -3,7 +3,8 @@
 
 ## Wireframe
 
-<script async src="https://preview.shorthand.com/xfhyxjoPEP5muTNL#group-section-Racial-Discrimination-while-Driving-vugajBGgAL"></script>
+<script async src="https://preview.shorthand.com/xfhyxjoPEP5muTNL#group-section-Racial-Discrimination-while-Driving-vugajBGgAL">
+</script>
 
 Link:
 

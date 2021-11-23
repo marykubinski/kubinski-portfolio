@@ -56,11 +56,11 @@ The findings of my interview are summarized in the table below:
 
 People:
 
-Person A: 27 year old/ female/ suburban driver/ progressive / student
+Person A: 27 year old/ female/ white /suburban driver/ progressive / student
 
-Person B: 33 years old / female / urban area driver / progressive /student 
+Person B: 33 years old / female / white/  urban area driver / progressive /student 
 
-Person C: 60 years old / male / "cautious" suburban driver / conservative /engineer 
+Person C: 60 years old / male / white / "cautious" suburban driver / conservative /engineer 
 
 Findings: 
 

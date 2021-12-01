@@ -1,5 +1,9 @@
-# Project Summary
+# Final Project Part Three 
 
-# Changes since Part 2
+## Project Summary
 
-# Shorthand Site
+## Changes since Part 2
+
+## Shorthand Site
+
+<iframe src="https://preview.shorthand.com/xfhyxjoPEP5muTNL" style="width:100%; height:300px;" ></iframe>

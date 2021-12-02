@@ -155,3 +155,6 @@ During the in-class presentation, my peers were divided on if they liked the sta
 Based on these tips, I again reformatted my data into a single sheet and loaded it to Flourish. In Flourish, it was easier to create one interactive visualization. The below visualization allows a user to switch between considering how the distribution of outstanding loans could be broken down into the percentage of dollars or borrowers associated with each repayment option. At that, the Flourish tool allows the user to also select and de-select repayment plans of interest. This enables a user to look at repayment plans one by one or as comparable units. I did not select to have one color blue for the three repayment options besides IDR because a researcher could be interested in which of these plans decreased, as borrowers (and the dollars associated with a borrower) shifted toward IDR plans. I added a subtitle and kept constant units.   
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7781717"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+[Back to Home](README.md)

@@ -43,6 +43,8 @@ Link:
 [Final Project](https://preview.shorthand.com/xfhyxjoPEP5muTNL)
 
 <iframe
-  src="https://preview.shorthand.com/xfhyxjoPEP5muTNL"
+  src="https://carnegiemellon.shorthandstories.com/an-end-to-low-level-traffic-stops/index.html#group-section-Reform-JqPshvUK63"
   style="width:100%; height:300px;"
 ></iframe>
+
+<script src="https://carnegiemellon.shorthandstories.com/an-end-to-low-level-traffic-stops/embed.js"></script>

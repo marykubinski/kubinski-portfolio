@@ -71,3 +71,6 @@ At this time, I plan to  build some charts using Tableau, Flourish, and possible
 Levenson, Michael. “Pulled over: What to Know about Deadly Police Traffic Stops.” The New York Times. The New York Times, October 31, 2021. https://www.nytimes.com/2021/10/31/us/police-killings-traffic-stops-takeaways.html. 
 
 Tavernise, Sabrina and David Kirkpatrick. "Why Do So Many Traffic Stops Go Wrong?" Produced by the New York Times. The Daily. November 1, 2021. Podcast, MP3 audio, 0:26:51. https://www.nytimes.com/2021/11/01/podcasts/the-daily/police-killings-traffic-stops.html.
+
+
+[Back to Home](README.md)

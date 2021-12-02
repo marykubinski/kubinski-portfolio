@@ -44,7 +44,7 @@ When writing about police reform, it is possible to discourage readers who feel 
 ## Shorthand Site
 
 Link:
-[Final Project](https://preview.shorthand.com/xfhyxjoPEP5muTNL)
+[Final Project](https://carnegiemellon.shorthandstories.com/an-end-to-low-level-traffic-stops/index.html#group-section-Trends-in-Training-dKnz1QbrYI)
 
 
 <script src="https://carnegiemellon.shorthandstories.com/an-end-to-low-level-traffic-stops/embed.js"></script>
